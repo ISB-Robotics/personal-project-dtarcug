@@ -1,5 +1,4 @@
 from get_board import *
-
 """prints board every time the board state changes"""
 
 vid = cv2.VideoCapture(0)
